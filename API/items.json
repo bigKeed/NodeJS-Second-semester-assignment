@@ -1,0 +1,11 @@
+[
+  { "id": 2, "name": "Jeans", "price": 19000, "size": "L" },
+  { "id": 3, "name": "Cap", "price": 6000, "size": "S" },
+  { "id": 4, "name": "Sneakers", "price": 34000, "size": "M" },
+  { "id": 5, "name": "Hoodie", "price": 15000, "size": "L" },
+  { "id": 7, "name": "Socks", "price": 3800, "size": "M" },
+  { "id": 8, "name": "Jacket", "price": 38000, "size": "L" },
+  { "id": 9, "name": "Belt", "price": 9300, "size": "M" },
+  { "id": 10, "name": "Backpack", "price": 22500, "size": "L" },
+  { "id": 1, "name": "T-Shirt", "price": 7500, "size": "M" }
+]
